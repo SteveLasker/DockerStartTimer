@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DockerStartTimer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"run -d -p 80:80 stevelasker/helloworldweb\" \"http://localhost\""
+    }
+  }
+}
